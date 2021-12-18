@@ -32,7 +32,9 @@ with Maven:
 ```
 
 with Gradle:
-`implementation 'org.sylvl:retry-rabbit-spring-cloud:0.0.1-SNAPSHOT'`
+```
+implementation 'org.sylvl:retry-rabbit-spring-cloud:0.0.1-SNAPSHOT'
+```
 
 ## Usage
 
