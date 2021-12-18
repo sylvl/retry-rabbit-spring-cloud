@@ -90,7 +90,7 @@ public class RetryProperties {
     this.retryCountHeader = retryCountHeader;
   }
 
-  static class DelayChannelProperties {
+  public static class DelayChannelProperties {
     /**
      * Backoff time in milliseconds
      */
